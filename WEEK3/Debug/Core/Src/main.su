@@ -1,0 +1,5 @@
+../Core/Src/main.c:68:9:Key_Press	16	static
+../Core/Src/main.c:86:5:main	8	static
+../Core/Src/main.c:157:6:SystemClock_Config	72	static
+../Core/Src/main.c:192:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:224:6:Error_Handler	4	static,ignoring_inline_asm
