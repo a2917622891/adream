@@ -19,7 +19,7 @@ int main() {
     GPIO_InitTypeDef GPIO_InitStructure;
 
     GPIO_StructureInit(&GPIO_InitStructure);
- printf("默认的GPIO速度为: %d\n", GPIO_InitStructure.GPIO_Speed);
+ printf("脛卢脠脧碌脛GPIO脣脵露脠脦陋: %d\n", GPIO_InitStructure.GPIO_Speed);
     
     return 0;
 }
